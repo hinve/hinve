@@ -16,8 +16,7 @@
         <img src="https://img.shields.io/badge/hinve-301934?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
     </a>
 </div>
-
-
+---
 - 🔭 I’m currently studying at 42 Málaga
 - 🌱 I’m currently learning Python, C, C++
 - 💬 Ask me about Videogames
