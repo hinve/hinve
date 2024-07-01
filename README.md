@@ -17,6 +17,7 @@
     </a>
 </div>
 
+
 - 🔭 I’m currently studying at 42 Málaga
 - 🌱 I’m currently learning Python, C, C++
 - 💬 Ask me about Videogames
