@@ -5,8 +5,7 @@
 </div>
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/h%C3%A9ctor-pino-montiel-02b47024a/">
-        <img src="[https://img.shields.io/twitter/follow/Hinve_?style=flat&logo=x&logoColor=black&logoSize=10](https://img.shields.io/badge/H%C3%A9ctor-blue?style=flat&logo=Linkedin&labelColor=Blue
-)" alt="Linkedin"/>
+        <img src="https://img.shields.io/badge/H%C3%A9ctor-blue?style=flat&logo=Linkedin&labelColor=Blue" alt="Linkedin"/>
     </a>
 </div>
 
