@@ -4,8 +4,9 @@
     <h3 align="center">I'm currently studing at 42 Málaga, an entusiast bla bla bla bla beqewqeqeghqeghqeqeqegqegqegqgehhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</h3>
 </div>
 <div id="badges" align="center">
-    <a href="https://x.com/Hinve_">
-        <img src="https://img.shields.io/twitter/follow/Hinve_?style=flat&logo=x&logoColor=black&logoSize=10" alt="Twitter"/>
+    <a href="https://www.linkedin.com/in/h%C3%A9ctor-pino-montiel-02b47024a/">
+        <img src="[https://img.shields.io/twitter/follow/Hinve_?style=flat&logo=x&logoColor=black&logoSize=10](https://img.shields.io/badge/H%C3%A9ctor-blue?style=flat&logo=Linkedin&labelColor=Blue
+)" alt="Linkedin"/>
     </a>
 </div>
 
