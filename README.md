@@ -7,9 +7,11 @@
     <a href="https://www.linkedin.com/in/h%C3%A9ctor-pino-montiel-02b47024a/">
         <img src="https://img.shields.io/badge/H%C3%A9ctor-blue?style=flat&logo=Linkedin&labelColor=Blue" alt="Linkedin"/>
     </a>
+    <h1></h1>
     <a href="https://x.com/Hinve_">
         <img src="https://img.shields.io/badge/Hinve__-black?style=flat&logo=x&logoColor=white" alt="Twitter"/>
     </a>
+    <h1></h1>
     <a href="https://steamcommunity.com/id/hinve">
         <img src="https://img.shields.io/badge/hinve-301934?style=flat&logo=steam&logoColor=white" alt="Steam"/>
     </a>
