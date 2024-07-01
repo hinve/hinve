@@ -19,8 +19,8 @@
 
 ---
 
-- 🔭 I’m currently studying at 42 Málaga
-- 🌱 I’m currently learning Python, C, C++
+- 📝 I’m studying at 42 Málaga
+- 🌱 I’m currently learning Python, C, C++, Django
 - 💬 Ask me about Videogames
 - 📫 How to reach me: hectorpinomontiel@gmail.com
 - ⚡ Fun fact: 👺
