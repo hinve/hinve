@@ -10,6 +10,9 @@
     <a href="https://x.com/Hinve_">
         <img src="https://img.shields.io/badge/Hinve__-black?style=flat&logo=x&logoColor=white" alt="Twitter"/>
     </a>
+    <a href="https://steamcommunity.com/id/hinve">
+        <img src="https://img.shields.io/badge/hinve-301934?style=flat&logo=steam&logoColor=white" alt="Steam"/>
+    </a>
 </div>
 
 
