@@ -8,11 +8,9 @@
         <img src="https://img.shields.io/badge/H%C3%A9ctor-blue?style=flat&logo=Linkedin&labelColor=Blue" alt="Linkedin" />
     </a>
     <a href="https://x.com/Hinve_">
-        <p></p>
         <img src="https://img.shields.io/badge/Hinve__-black?style=flat&logo=x&logoColor=white" alt="Twitter" />
     </a>
     <a href="https://steamcommunity.com/id/hinve">
-        <p></p>
         <img src="https://img.shields.io/badge/hinve-301934?style=flat&logo=steam&logoColor=white" alt="Steam" />
     </a>
 </div>
