@@ -7,6 +7,9 @@
     <a href="https://www.linkedin.com/in/h%C3%A9ctor-pino-montiel-02b47024a/">
         <img src="https://img.shields.io/badge/H%C3%A9ctor-blue?style=flat&logo=Linkedin&labelColor=Blue" alt="Linkedin"/>
     </a>
+    <a href="https://x.com/Hinve_">
+        <img src="https://img.shields.io/badge/Hinve__-black?style=flat&logo=x&logoColor=white" alt="Twitter"/>
+    </a>
 </div>
 
 
