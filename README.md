@@ -20,7 +20,7 @@
 ---
 
 - 📝 I’m studying at 42 Málaga
-- 🌱 I’m currently learning Python, C, C++, Django
+- 🌱 I’m currently learning Python, Django, Kotlin
 - 💬 Ask me about Videogames
 - 📫 How to reach me: hectorpinomontiel@gmail.com
 - ⚡ Fun fact: 👺
