@@ -18,6 +18,7 @@
 </div>
 
 ---
+## 🧑 About me
 
 - 📝 I’m studying at 42 Málaga
 - 🌱 I’m currently learning Python, Django, Kotlin
