@@ -35,5 +35,3 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="40" height="40"/>
 </div>
-
-[![Hinv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hinve)](https://github.com/anuraghazra/github-readme-stats)
