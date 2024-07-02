@@ -25,3 +25,5 @@
 - 💬 Ask me about Videogames
 - 📫 How to reach me: hectorpinomontiel@gmail.com
 - ⚡ Fun fact: 👺
+
+## 🛠️ Languajes and tools
