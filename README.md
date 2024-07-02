@@ -27,3 +27,9 @@
 - ⚡ Fun fact: 👺
 
 ## 🛠️ Languajes and tools
+<div id="Tools" align="left">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3AC_Logo.png&psig=AOvVaw1PRm7Y5qqz2aGalAOon9YQ&ust=1719964949024000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOj21fGGh4cDFQAAAAAdAAAAABAE" width="40" height="40"/>
+    <img src="" width="40" height="40"/>
+    <img src="" width="40" height="40"/>
+    <img src="" width="40" height="40"/>
+</div>
