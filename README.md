@@ -36,5 +36,4 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="40" height="40"/>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hinve)](https://git.io/streak-stats)
-
+[![Hinv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hinve)](https://github.com/anuraghazra/github-readme-stats)
