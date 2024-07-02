@@ -7,8 +7,8 @@
 
 </div>
 <div id="badges" align="center">
-    <a href="https://img.shields.io/badge/H%C3%A9ctor-blue?logo=linkedin&logoColor=white">
-        <img src="https://img.shields.io/badge/H%C3%A9ctor-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+    <a href="https://www.linkedin.com/in/h%C3%A9ctor-pino-montiel-02b47024a/">
+        <img src="https://img.shields.io/badge/H%C3%A9ctor-blue?logo=linkedin&logoColor=white" alt="Linkedin" />
     </a>&nbsp;
     <a href="https://x.com/Hinve_">
         <img src="https://img.shields.io/badge/Hinve__-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
