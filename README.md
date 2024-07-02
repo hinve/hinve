@@ -3,7 +3,7 @@
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemVzY2VkdHo0dHlhcXhvNXd1NWxhcml6dHBpa3M2NXZrMTlqaTlwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3bj6t3opdeNddYCyl/giphy.webp" width="200" />
     <h3 align="center">A passionate programming student from Spain🇪🇸, a software developer in development🧏</h3>
 
-    -
+---
 
 </div>
 <div id="badges" align="center">
