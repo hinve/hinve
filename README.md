@@ -52,7 +52,7 @@ For more details about the projects, there is a README.md in each of them.
 | So_long                                         | 🟢 Done  |  2  | 100/100 | ❌    |
 | Minitalk                                        | 🟢 Done  |  2  | 100/100 | ❌    |
 | Exam 03                                         | 🪨 On it |  1  | ---/100 | ❔    |
-| Minishell                                       | 🪨 On it |  3  | ---/100 | ❔    |
+| [Minishell](https://github.com/hinve/minishell) | 🪨 On it |  3  | ---/100 | ❔    |
 | Philosophers                                    | 🪨 On it |  3  | ---/100 | ❔    |
 
 ## 📒 Certificates
