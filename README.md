@@ -24,7 +24,7 @@
 ## 🧑 About me
 
 - 📝 I’m studying at 42 Málaga
-- 🌱 I’m currently learning Python, Django, Kotlin
+- 🌱 I’m currently learning Python, C++
 - 💬 Ask me about Videogames
 - 📫 How to reach me: hectorpinomontiel@gmail.com
 - ⚡ Fun fact: 👺
@@ -61,3 +61,8 @@ For more details about the projects, there is a README.md in each of them.
 | Name                                                           | Status   | Final Score |
 |----------------------------------------------------------------|----------|:-----------:|
 |[Python and Django](https://github.com/hinve/Python_and_Django) | 🟢 Done  |   9,27/10   |
+|[C++ course]()                                                  | 🪨 On it |    --/10    |
+### Coursera
+| Name                                                           | Status   | Final Score |
+|----------------------------------------------------------------|----------|:-----------:|
+|[IBM Python for Data Science, AI & Development]()               | 🪨 On it |    --/10    |
