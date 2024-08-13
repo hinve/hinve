@@ -43,6 +43,6 @@
 ### 🏝️ 42 cursus
 | Name | Description | Lvl | Score | Bonus |
 |------|-------------|-----|-------|-------|
-| Libft| Fila 1, Col | Fila|-------|-------|
+| <div style="background-color: yellow">Libft</div>| Fila 1, Col | Fila|-------|-------|
 | Ft_printf | Fila 2, Col | Fila|-------|-------|
 | Get_next_line | Fila 3, Col | Fila|-------|-------|
