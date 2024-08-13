@@ -38,3 +38,30 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="40" height="40"/>
 </div>
+## 📋 Tables
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left; padding: 8px; background-color: #4CAF50; color: white;">Header 1</th>
+      <th style="text-align: center; padding: 8px; background-color: #4CAF50; color: white;">Header 2</th>
+      <th style="text-align: right; padding: 8px; background-color: #4CAF50; color: white;">Header 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; background-color: #f2f2f2;">Row 1, Col 1</td>
+      <td style="text-align: center; padding: 8px; background-color: #f2f2f2;">Row 1, Col 2</td>
+      <td style="text-align: right; padding: 8px; background-color: #f2f2f2;">Row 1, Col 3</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">Row 2, Col 1</td>
+      <td style="text-align: center; padding: 8px;">Row 2, Col 2</td>
+      <td style="text-align: right; padding: 8px;">Row 2, Col 3</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; background-color: #f2f2f2;">Row 3, Col 1</td>
+      <td style="text-align: center; padding: 8px; background-color: #f2f2f2;">Row 3, Col 2</td>
+      <td style="text-align: right; padding: 8px; background-color: #f2f2f2;">Row 3, Col 3</td>
+    </tr>
+  </tbody>
+</table>
