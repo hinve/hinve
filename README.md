@@ -56,12 +56,12 @@ For more details about the projects, there is a README.md in each of them.
 | Philosophers                                    | 🪨 On it |  3  | ---/100 | ❔    |
 
 ## 📒 Certificates
-### Impulso_06
+### 🟩 Impulso_06
 | Name                                                           | Status   | Final Score |
 |----------------------------------------------------------------|----------|:-----------:|
 |[Python and Django](https://github.com/hinve/Python_and_Django) | 🟢 Done  |   9,27/10   |
 |[C++ course]()                                                  | 🪨 On it |    --/10    |
-### Coursera
+### 🟦 Coursera
 | Name                                                           | Status   | Final Score |
 |----------------------------------------------------------------|----------|:-----------:|
 |[IBM Python for Data Science, AI & Development]()               | 🪨 On it |    --/10    |
