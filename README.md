@@ -40,29 +40,8 @@
 </div>
 
 ## 📋 Tables
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: left; padding: 8px; background-color: #4CAF50; color: white;">Header 1</th>
-      <th style="text-align: center; padding: 8px; background-color: #4CAF50; color: white;">Header 2</th>
-      <th style="text-align: right; padding: 8px; background-color: #4CAF50; color: white;">Header 3</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 8px; background-color: #f2f2f2;">Row 1, Col 1</td>
-      <td style="text-align: center; padding: 8px; background-color: #f2f2f2;">Row 1, Col 2</td>
-      <td style="text-align: right; padding: 8px; background-color: #f2f2f2;">Row 1, Col 3</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px;">Row 2, Col 1</td>
-      <td style="text-align: center; padding: 8px;">Row 2, Col 2</td>
-      <td style="text-align: right; padding: 8px;">Row 2, Col 3</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; background-color: #f2f2f2;">Row 3, Col 1</td>
-      <td style="text-align: center; padding: 8px; background-color: #f2f2f2;">Row 3, Col 2</td>
-      <td style="text-align: right; padding: 8px; background-color: #f2f2f2;">Row 3, Col 3</td>
-    </tr>
-  </tbody>
-</table>
+| Encabezado 1 | Encabezado 2 | Encabezado 3 |
+|--------------|--------------|--------------|
+| Fila 1, Col 1| Fila 1, Col 2| Fila 1, Col 3|
+| Fila 2, Col 1| Fila 2, Col 2| Fila 2, Col 3|
+| Fila 3, Col 1| Fila 3, Col 2| Fila 3, Col 3|
