@@ -55,3 +55,9 @@ For more details about the projects, there is a README.md in each of them.
 | Exam 03                                         | 🪨 On it |  1  | 100/100 | ❔    |
 | Minishell                                       | 🪨 On it |  3  | ---/100 | ❔    |
 | Philosophers                                    | 🪨 On it |  3  | ---/100 | ❔    |
+
+## 📒 Certificates
+### Impulso_06
+| Name                                            | Status   | Final Score |
+|-------------------------------------------------|----------|:-----------:|
+|[Python and Django]()                            | 🟢 Done  |   9,27/10   |
