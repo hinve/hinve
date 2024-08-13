@@ -41,6 +41,7 @@
 
 ## 📋 Tables
 ### 🏝️ 42 cursus
+<span style="opacity: 0.5;">For more details about the projects, there is a README.md in each of them.</span>
 | Name | Status | Lvl | Score | Bonus |
 |------|-------------|-----|-------|-------|
 | [Libft](https://github.com/hinve/libft) | 🟢 Done | 0 | 125/100 | ✅ |
