@@ -58,6 +58,6 @@ For more details about the projects, there is a README.md in each of them.
 
 ## 📒 Certificates
 ### Impulso_06
-| Name                                            | Status   | Final Score |
-|-------------------------------------------------|----------|:-----------:|
-|[Python and Django]()                            | 🟢 Done  |   9,27/10   |
+| Name                                                           | Status   | Final Score |
+|----------------------------------------------------------------|----------|:-----------:|
+|[Python and Django](https://github.com/hinve/Python_and_Django) | 🟢 Done  |   9,27/10   |
