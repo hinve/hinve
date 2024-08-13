@@ -43,6 +43,6 @@
 ### 🏝️ 42 cursus
 | Name | Status | Lvl | Score | Bonus |
 |------|-------------|-----|-------|-------|
-| Libft | 🟢 Done | 0 | 125/100 |-------|
-| Ft_printf | 🟢 Done | 1 | 100/100 |-------|
-| Get_next_line | 🟢 Done | 1 | 125/100 |-------|
+| Libft | 🟢 Done | 0 | 125/100 | ✅ |
+| Ft_printf | 🟢 Done | 1 | 100/100 | ❌ |
+| Get_next_line | 🟢 Done | 1 | 125/100 | ✅ |
