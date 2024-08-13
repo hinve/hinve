@@ -43,7 +43,7 @@
 ### 🏝️ 42 cursus
 For more details about the projects, there is a README.md in each of them.
 | Name                                    | Status  | Lvl |  Score  | Bonus |
-|-----------------------------------------|---------|-----|---------|-------|
+|-----------------------------------------|---------|:---:|:-------:|:-----:|
 | [Libft](https://github.com/hinve/libft) | 🟢 Done |  0  | 125/100 | ✅    |
 | Ft_printf                               | 🟢 Done |  1  | 100/100 | ❌    |
 | Get_next_line                           | 🟢 Done |  1  | 125/100 | ✅    |
