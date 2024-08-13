@@ -41,8 +41,8 @@
 
 ## 📋 Tables
 ### 🏝️ 42 cursus
-| Name | Description | Lvl | Score | Bonus |
+| Name | Status | Lvl | Score | Bonus |
 |------|-------------|-----|-------|-------|
-| <div style="background-color: yellow">Libft</div>| Fila 1, Col | Fila|-------|-------|
+| Libft | 🟢 Done | Fila|-------|-------|
 | Ft_printf | Fila 2, Col | Fila|-------|-------|
 | Get_next_line | Fila 3, Col | Fila|-------|-------|
