@@ -55,6 +55,11 @@ For more details about the projects, there is a README.md in each of them.
 | [Minishell](https://github.com/hinve/minishell) | 🪨 On it |  3  | ---/100 | ❔    |
 | Philosophers                                    | 🪨 On it |  3  | ---/100 | ❔    |
 
+## 👨 Personal projects
+| Name                                           | Status       | Summary                         |
+|------------------------------------------------|--------------|:-------------------------------:|
+|[PDFReader](https://github.com/hinve/PDFReader) | 🟢 Finished  |   My first ever python project  |
+
 ## 📒 Certificates
 ### 🟩 Impulso_06
 | Name                                                           | Status   | Final Score |
@@ -65,3 +70,4 @@ For more details about the projects, there is a README.md in each of them.
 | Name                                                           | Status   | Final Score |
 |----------------------------------------------------------------|----------|:-----------:|
 |[IBM Python for Data Science, AI & Development]()               | 🪨 On it |    --/10    |
+
