@@ -66,8 +66,4 @@ For more details about the projects, there is a README.md in each of them.
 |----------------------------------------------------------------|----------|:-----------:|
 |[Python and Django](https://github.com/hinve/Python_and_Django) | 🟢 Done  |   9,27/10   |
 |[C++ course]()                                                  | 🪨 On it |    --/10    |
-### 🟦 Coursera
-| Name                                                           | Status   | Final Score |
-|----------------------------------------------------------------|----------|:-----------:|
-|[IBM Python for Data Science, AI & Development]()               | 🪨 On it |    --/10    |
 
