@@ -47,13 +47,13 @@ For more details about the projects, there is a README.md in each of them.
 | [Ft_printf](https://github.com/hinve/ft_printf)       | 🟢 Done  |  1  | 100/100 | ❌    |
 | Get_next_line                                         | 🟢 Done  |  1  | 125/100 | ✅    |
 | Born2beroot                                           | 🟢 Done  |  1  | 125/100 | ✅    |
-| Exam 02                                               | 🟢 Done  | 0-2 | 100/100 | ❔    |
+| Exam 02                                               | 🟢 Done  | 0-2 | 100/100 | ❔     |
 | Push_Swap                                             | 🟢 Done  |  2  | 125/100 | ✅    |
 | So_long                                               | 🟢 Done  |  2  | 100/100 | ❌    |
 | Minitalk                                              | 🟢 Done  |  2  | 100/100 | ❌    |
-| Exam 03                                               | 🪨 On it |  1  | ---/100 | ❔    |
-| [Minishell](https://github.com/hinve/minishell)       | 🪨 On it |  3  | ---/100 | ❔    |
-| [Philosophers](https://github.com/hinve/philosophers) | 🪨 On it |  3  | ---/100 | ❔    |
+| Exam 03                                               | 🪨 On it |  1  | ---/100 | ❔      |
+| [Minishell](https://github.com/hinve/minishell)       | 🪨 On it |  3  | ---/100 | ❔      |
+| [Philosophers](https://github.com/hinve/philosophers) | 🟢 Done  |  3  | 100/100 | ❌    |
 
 ## 👉👨 Personal projects
 | Name                                           | Status       | Summary                         |
