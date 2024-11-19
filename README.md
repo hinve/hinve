@@ -51,9 +51,16 @@ For more details about the projects, there is a README.md in each of them.
 | Push_Swap                                             | 🟢 Done  |  2  | 125/100 | ✅    |
 | So_long                                               | 🟢 Done  |  2  | 100/100 | ❌    |
 | Minitalk                                              | 🟢 Done  |  2  | 110/100 | ✅    |
-| Exam 03                                               | 🪨 On it |  1  | ---/100 | ❔      |
-| [Minishell](https://github.com/hinve/minishell)       | 🪨 On it |  3  | ---/100 | ❔      |
+| Exam 03                                               |  🪨 On it  |  1  | ---/100 | ❔    |
+| [Minishell](https://github.com/hinve/minishell)       |  🪨 On it  |  3  | ---/100 | ❔    |
 | [Philosophers](https://github.com/hinve/philosophers) | 🟢 Done  |  3  | 100/100 | ❌    |
+
+### 🏫 Higher degree: multiplatform application development.
+For more details about the projects, there is a README.md in the repository.
+| Name                                                  |
+|-------------------------------------------------------|
+| [Projects](https://github.com/hinve/HDegreeProjects)  |
+
 
 ## 👉👨 Personal projects
 | Name                                           | Status       | Summary                         |
