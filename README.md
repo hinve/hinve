@@ -37,7 +37,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40"/>
-    https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg
 </div>
 
 ## 📋 Tables
