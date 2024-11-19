@@ -56,7 +56,6 @@ For more details about the projects, there is a README.md in each of them.
 | [Philosophers](https://github.com/hinve/philosophers) | 🟢 Done  |  3  | 100/100 | ❌    |
 
 ### 🏫 Higher degree: multiplatform application development.
-For more details about the projects, there is a README.md in the repository.
 | Name                                                  | Summary                                          |
 |-------------------------------------------------------|--------------------------------------------------|
 | [Projects](https://github.com/hinve/HDegreeProjects)  | Exercises that I will do throughout the course.  |
