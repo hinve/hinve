@@ -72,5 +72,4 @@ For more details about the projects, there is a README.md in the repository.
 | Name                                                           | Status   | Final Score |
 |----------------------------------------------------------------|----------|:-----------:|
 |[Python and Django](https://github.com/hinve/Python_and_Django) | 🟢 Done  |   9,27/10   |
-|[C++ course]()                                                  | 🪨 On it |    --/10    |
 
