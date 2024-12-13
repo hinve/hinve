@@ -46,12 +46,12 @@ For more details about the projects, there is a README.md in each of them.
 |-------------------------------------------------------|----------|:---:|:-------:|:-----:|
 | [Libft](https://github.com/hinve/libft)               | 🟢 Done  |  0  | 125/100 | ✅    |
 | [Ft_printf](https://github.com/hinve/ft_printf)       | 🟢 Done  |  1  | 100/100 | ❌    |
-| Get_next_line                                         | 🟢 Done  |  1  | 125/100 | ✅    |
-| Born2beroot                                           | 🟢 Done  |  1  | 125/100 | ✅    |
+| [Get_next_line](https://github.com/hinve/gnl)         | 🟢 Done  |  1  | 125/100 | ✅    |
+| [Born2beroot](https://github.com/hinve/b2broot)       | 🟢 Done  |  1  | 125/100 | ✅    |
 | Exam 02                                               | 🟢 Done  | 0-2 | 100/100 | ❔     |
-| Push_Swap                                             | 🟢 Done  |  2  | 125/100 | ✅    |
-| So_long                                               | 🟢 Done  |  2  | 100/100 | ❌    |
-| Minitalk                                              | 🟢 Done  |  2  | 110/100 | ✅    |
+| [Push_Swap](https://github.com/hinve/push_swap)       | 🟢 Done  |  2  | 125/100 | ✅    |
+| [So_long](https://github.com/hinve/so_long)           | 🟢 Done  |  2  | 100/100 | ❌    |
+| [Minitalk](https://github.com/hinve/minitalk)         | 🟢 Done  |  2  | 110/100 | ✅    |
 | Exam 03                                               |  🪨 On it  |  1  | ---/100 | ❔    |
 | [Minishell](https://github.com/hinve/minishell)       |  🪨 On it  |  3  | ---/100 | ❔    |
 | [Philosophers](https://github.com/hinve/philosophers) | 🟢 Done  |  3  | 100/100 | ❌    |
