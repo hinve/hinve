@@ -55,6 +55,7 @@ For more details about the projects, there is a README.md in each of them.
 | Exam 03                                               |  🪨 On it  |  1  | ---/100 | ❔    |
 | [Minishell](https://github.com/hinve/minishell)       |  🪨 On it  |  3  | ---/100 | ❔    |
 | [Philosophers](https://github.com/hinve/philosophers) | 🟢 Done  |  3  | 100/100 | ❌    |
+| [C++ Modules](https://github.com/hinve/cpp_modules)   | 🪨 On it   |  4  | ---/100 | ❔    |
 
 ### 🏫 Higher degree: multiplatform application development.
 | Name                                                  | Summary                                          |
