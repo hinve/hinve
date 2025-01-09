@@ -17,6 +17,7 @@
 </div>
 
 ---
+[![hpino-mo's 42 stats](https://badge.mediaplus.ma/greenbinary/hpino-mo?1337Badge=off)](https://github.com/oakoudad/badge42)
 ## 🧑 About me
 
 - 📝 I’m studying at 42 Málaga, and I’m also doing a Higher Vocational Degree in Multiplatform Application Development.
