@@ -20,7 +20,7 @@
 ## 🧑 About me
 
 - 📝 I’m studying at 42 Málaga, and I’m also doing a Higher Vocational Degree in Multiplatform Application Development.
-- 🌱 I’m currently learning Python, C++, Java, SQL
+- 🌱 I’m currently learning Python, C++, Java, SQL, JavaScript
 - 💬 Ask me about Videogames
 - 📫 How to reach me: hectorpinomontiel@gmail.com
 - ⚡ Fun fact: 👺
