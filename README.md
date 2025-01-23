@@ -71,6 +71,10 @@ For more details about the projects, there is a README.md in each of them.
 |[PDFReader](https://github.com/hinve/PDFReader) | 🟢 Finished  |   My first ever python project  |
 
 ## 📒 Certificates
+### 🟦 FreeCodeCamp
+| Name                                                           | Status   | Final Score |
+|----------------------------------------------------------------|----------|:-----------:|
+|[Responsive Web Design]()                                       | 🪨 On it  |    ---/10   |
 ### 🟩 Impulso_06
 | Name                                                           | Status   | Final Score |
 |----------------------------------------------------------------|----------|:-----------:|
