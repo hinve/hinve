@@ -75,12 +75,12 @@ For more details about the projects, there is a README.md in each of them.
 | Name                                                           | Status   | Final Score |
 |----------------------------------------------------------------|----------|:-----------:|
 |[Responsive Web Design]()                                       | 🪨 On it  |    ---/10   |
-|[JavaScript Algorithms and Data Structures]()                   | 🪨 On it  |    ---/10   |
-|[Front End Development Libraries]()                             | 🪨 On it  |    ---/10   |
-|[Data Visualization]()                                          | 🪨 On it  |    ---/10   |
-|[Relational Database]()                                         | 🪨 On it  |    ---/10   |
-|[Back End Development and APIs]()                               | 🪨 On it  |    ---/10   |
-|[Quality Assurance]()                                           | 🪨 On it  |    ---/10   |
+|[JavaScript Algorithms and Data Structures]()                   | -------  |    ---/10   |
+|[Front End Development Libraries]()                             | -------  |    ---/10   |
+|[Data Visualization]()                                          | -------  |    ---/10   |
+|[Relational Database]()                                         | -------  |    ---/10   |
+|[Back End Development and APIs]()                               | -------  |    ---/10   |
+|[Quality Assurance]()                                           | -------  |    ---/10   |
 
 ### 🟩 Impulso_06
 | Name                                                           | Status   | Final Score |
