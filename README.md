@@ -55,7 +55,7 @@ For more details about the projects, there is a README.md in each of them.
 | [So_long](https://github.com/hinve/so_long)           | 🟢 Done  |  2  | 100/100 | ❌    |
 | [Minitalk](https://github.com/hinve/minitalk)         | 🟢 Done  |  2  | 110/100 | ✅    |
 | Exam 03                                               |  🪨 On it  |  1  | ---/100 | ❔    |
-| [Minishell](https://github.com/hinve/minishell)       |  🪨 On it  |  3  | ---/100 | ❔    |
+| [Minishell](https://github.com/hinve/minishell)       | 🟢 Done  |  3  | 100/100 | ✅    |
 | [Philosophers](https://github.com/hinve/philosophers) | 🟢 Done  |  3  | 100/100 | ❌    |
 | [C++ Modules](https://github.com/hinve/cpp_modules)   | 🪨 On it   |  4  | ---/100 | ❔    |
 
