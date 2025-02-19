@@ -41,7 +41,7 @@
 
 ## 📋 Tables
 ### 🏝️ 42 cursus
-[![hpino-mo's 42 stats](https://badge.mediaplus.ma/Water/hpino-mo?1337Badge=off)](https://github.com/oakoudad/badge42)
+[![hpino-mo's 42 stats](https://badge.mediaplus.ma/water/hpino-mo?1337Badge=off)](https://github.com/oakoudad/badge42)
 
 For more details about the projects, there is a README.md in each of them.
 | Name                                                  | Status   | Lvl |  Score  | Bonus |
