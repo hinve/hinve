@@ -50,14 +50,14 @@ For more details about the projects, there is a README.md in each of them.
 | [Ft_printf](https://github.com/hinve/ft_printf)       | 🟢 Done  |  1  | 100/100 | ❌    |
 | [Get_next_line](https://github.com/hinve/gnl)         | 🟢 Done  |  1  | 125/100 | ✅    |
 | [Born2beroot](https://github.com/hinve/b2broot)       | 🟢 Done  |  1  | 125/100 | ✅    |
-| Exam 02                                               | 🟢 Done  | 0-2 | 100/100 | ❔     |
+| Exam 02                                               | 🟢 Done  | 0-2 | 100/100 | ❔    |
 | [Push_Swap](https://github.com/hinve/push_swap)       | 🟢 Done  |  2  | 125/100 | ✅    |
 | [So_long](https://github.com/hinve/so_long)           | 🟢 Done  |  2  | 100/100 | ❌    |
 | [Minitalk](https://github.com/hinve/minitalk)         | 🟢 Done  |  2  | 110/100 | ✅    |
-| Exam 03                                               |  🪨 On it  |  1  | ---/100 | ❔    |
+| Exam 03                                               | 🪨 On it |  1  | ---/100 | ❔    |
 | [Minishell](https://github.com/hinve/minishell)       | 🟢 Done  |  3  | 100/100 | ❌    |
 | [Philosophers](https://github.com/hinve/philosophers) | 🟢 Done  |  3  | 100/100 | ❌    |
-| [C++ Modules](https://github.com/hinve/cpp_modules)   | 🪨 On it   |  4  | ---/100 | ❔    |
+| [C++ Modules](https://github.com/hinve/cpp_modules)   | 🪨 On it |  4  | ---/100 | ❔    |
 
 ### 🏫 Higher degree: multiplatform application development.
 | Name                                                  | Summary                                          |
@@ -71,10 +71,18 @@ For more details about the projects, there is a README.md in each of them.
 |[PDFReader](https://github.com/hinve/PDFReader) | 🟢 Finished  |   My first ever python project  |
 
 ## 📒 Certificates
+### 🟪 UDEMY
+| Name                                                                                                                            | Status   | Final Score |
+|---------------------------------------------------------------------------------------------------------------------------------|----------|:-----------:|
+|[Curso de Java - Nivel Básico 4,5H](https://www.udemy.com/certificate/UC-4ef30b1c-e866-4581-949c-7e3d481b7c69/)                  | 🟢 Done  |     ?/10    |
+|[Programación Orientada a Objetos con Java 12H]()                                                                                | 🪨 On it |   ---/10    |
+|[Java: Aprendiendo a desarrollar y avanzado 9.5 h]()                                                                             | 🪨 On it |   ---/10    |
+|[Aprende a usar Streams, lambdas, interfaces funcionales y más. 7,5H]()                                                          | 🪨 On it |   ---/10    |
+
 ### 🟦 FreeCodeCamp
 | Name                                                           | Status   | Final Score |
 |----------------------------------------------------------------|----------|:-----------:|
-|[Responsive Web Design]()                                       | 🪨 On it  |    ---/10   |
+|[Responsive Web Design]()                                       | 🪨 On it |    ---/10   |
 |[JavaScript Algorithms and Data Structures]()                   | -------  |    ---/10   |
 |[Front End Development Libraries]()                             | -------  |    ---/10   |
 |[Data Visualization]()                                          | -------  |    ---/10   |
@@ -87,14 +95,4 @@ For more details about the projects, there is a README.md in each of them.
 |----------------------------------------------------------------|----------|:-----------:|
 |[Python and Django](https://github.com/hinve/Python_and_Django) | 🟢 Done  |   9,27/10   |
 
-### 🟪 FreeCodeCamp
-| Name                                                           | Status   | Final Score |
-|----------------------------------------------------------------|----------|:-----------:|
-|[Curso de Java - Nivel Básico 4,5H](https://www.udemy.com/certificate/UC-4ef30b1c-e866-4581-949c-7e3d481b7c69/)                           | 🟢 Done  |    ---/10   |
-|[JavaScript Algorithms and Data Structures]()                   | -------  |    ---/10   |
-|[Front End Development Libraries]()                             | -------  |    ---/10   |
-|[Data Visualization]()                                          | -------  |    ---/10   |
-|[Relational Database]()                                         | -------  |    ---/10   |
-|[Back End Development and APIs]()                               | -------  |    ---/10   |
-|[Quality Assurance]()                                           | -------  |    ---/10   |
 
