@@ -87,3 +87,14 @@ For more details about the projects, there is a README.md in each of them.
 |----------------------------------------------------------------|----------|:-----------:|
 |[Python and Django](https://github.com/hinve/Python_and_Django) | 🟢 Done  |   9,27/10   |
 
+### 🟪 FreeCodeCamp
+| Name                                                           | Status   | Final Score |
+|----------------------------------------------------------------|----------|:-----------:|
+|[Curso de Java - Nivel Básico 4,5H](https://www.udemy.com/certificate/UC-4ef30b1c-e866-4581-949c-7e3d481b7c69/)                           | 🟢 Done  |    ---/10   |
+|[JavaScript Algorithms and Data Structures]()                   | -------  |    ---/10   |
+|[Front End Development Libraries]()                             | -------  |    ---/10   |
+|[Data Visualization]()                                          | -------  |    ---/10   |
+|[Relational Database]()                                         | -------  |    ---/10   |
+|[Back End Development and APIs]()                               | -------  |    ---/10   |
+|[Quality Assurance]()                                           | -------  |    ---/10   |
+
