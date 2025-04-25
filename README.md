@@ -72,6 +72,10 @@ For more details about the projects, there is a README.md in each of them.
 |[Programación Orientada a Objetos con Java 12H](https://www.udemy.com/certificate/UC-001f96cc-0c34-4ca7-b3bd-d54e4ebec873/)      | 🟢 Done  |     ?/10    |
 |[Java: Aprendiendo a desarrollar y avanzado 9.5 h](https://www.udemy.com/certificate/UC-a21066d3-02c2-44a8-8b8a-91b13d10bc25/)   | 🟢 Done  |     ?/10    |
 |[Aprende a usar Streams, lambdas, interfaces funcionales y más. 7,5H]()                                                          | 🪨 On it |   ---/10    |
+|[Maven: Construyendo nuestros proyectos Java 4H]()                                                                               | 🪨 On it |   ---/10    |
+|[Programación funcional en Java con Lambdas y Streams 2H]()                                                                      | 🪨 On it |   ---/10    |
+|[IntelliJ IDEA Tricks to Boost Productivity for Java Devs 1,5H]()                                                                | 🪨 On it |   ---/10    |
+|[Control de versiones con Subversion 5,5H]()                                                                                     | 🪨 On it |   ---/10    |
 
 ### 🟦 FreeCodeCamp
 | Name                                                           | Status   | Final Score |
