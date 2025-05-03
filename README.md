@@ -66,16 +66,16 @@ For more details about the projects, there is a README.md in each of them.
 
 ## 📒 Certificates
 ### 🟪 UDEMY
-| Name                                                                                                                            | Status   | Final Score |
-|---------------------------------------------------------------------------------------------------------------------------------|----------|:-----------:|
-|[Curso de Java - Nivel Básico 4,5H](https://www.udemy.com/certificate/UC-4ef30b1c-e866-4581-949c-7e3d481b7c69/)                  | 🟢 Done  |     ?/10    |
-|[Programación Orientada a Objetos con Java 12H](https://www.udemy.com/certificate/UC-001f96cc-0c34-4ca7-b3bd-d54e4ebec873/)      | 🟢 Done  |     ?/10    |
-|[Java: Aprendiendo a desarrollar y avanzado 9.5 h](https://www.udemy.com/certificate/UC-a21066d3-02c2-44a8-8b8a-91b13d10bc25/)   | 🟢 Done  |     ?/10    |
-|[Aprende a usar Streams, lambdas, interfaces funcionales y más. 7,5H]()                                                          | 🪨 On it |   ---/10    |
-|[Maven: Construyendo nuestros proyectos Java 4H]()                                                                               | 🪨 On it |   ---/10    |
-|[Programación funcional en Java con Lambdas y Streams 2H]()                                                                      | 🪨 On it |   ---/10    |
-|[IntelliJ IDEA Tricks to Boost Productivity for Java Devs 1,5H]()                                                                | 🪨 On it |   ---/10    |
-|[Control de versiones con Subversion 5,5H]()                                                                                     | 🪨 On it |   ---/10    |
+| Name                                                                                                                                             | Status   | Final Score |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|----------|:-----------:|
+|[Curso de Java - Nivel Básico 4,5H](https://www.udemy.com/certificate/UC-4ef30b1c-e866-4581-949c-7e3d481b7c69/)                                   | 🟢 Done  |     ?/10    |
+|[Programación Orientada a Objetos con Java 12H](https://www.udemy.com/certificate/UC-001f96cc-0c34-4ca7-b3bd-d54e4ebec873/)                       | 🟢 Done  |     ?/10    |
+|[Java: Aprendiendo a desarrollar y avanzado 9.5 h](https://www.udemy.com/certificate/UC-a21066d3-02c2-44a8-8b8a-91b13d10bc25/)                    | 🟢 Done  |     ?/10    |
+|[Aprende a usar Streams, lambdas, interfaces funcionales y más. 7,5H](https://www.udemy.com/certificate/UC-83a719eb-26ef-4749-a761-f9fe009a5cd5/) | 🟢 Done  |     ?/10    |
+|[Maven: Construyendo nuestros proyectos Java 4H]()                                                                                                | 🪨 On it |   ---/10    |
+|[Programación funcional en Java con Lambdas y Streams 2H]()                                                                                       | 🪨 On it |   ---/10    |
+|[IntelliJ IDEA Tricks to Boost Productivity for Java Devs 1,5H]()                                                                                 | 🪨 On it |   ---/10    |
+|[Control de versiones con Subversion 5,5H]()                                                                                                      | 🪨 On it |   ---/10    |
 
 ### 🟦 FreeCodeCamp
 | Name                                                           | Status   | Final Score |
