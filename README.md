@@ -73,7 +73,7 @@ For more details about the projects, there is a README.md in each of them.
 |[Java: Aprendiendo a desarrollar y avanzado 9.5 h](https://www.udemy.com/certificate/UC-a21066d3-02c2-44a8-8b8a-91b13d10bc25/)                    | 🟢 Done  |     ?/10    |
 |[Aprende a usar Streams, lambdas, interfaces funcionales y más. 7,5H](https://www.udemy.com/certificate/UC-83a719eb-26ef-4749-a761-f9fe009a5cd5/) | 🟢 Done  |     ?/10    |
 |[Maven: Construyendo nuestros proyectos Java 4H]()                                                                                                | 🪨 On it |   ---/10    |
-|[Programación funcional en Java con Lambdas y Streams 2H]()                                                                                       | 🪨 On it |   ---/10    |
+|[Programación funcional en Java con Lambdas y Streams 2H](https://www.udemy.com/certificate/UC-2e065bcf-e31b-4707-87ed-690d430d212e/)             | 🪨 On it |   ---/10    |
 |[IntelliJ IDEA Tricks to Boost Productivity for Java Devs 1,5H]()                                                                                 | 🪨 On it |   ---/10    |
 |[Control de versiones con Subversion 5,5H]()                                                                                                      | 🪨 On it |   ---/10    |
 
