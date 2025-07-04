@@ -76,10 +76,10 @@ For more details about the projects, there is a README.md in each of them.
 |[Maven: Construyendo nuestros proyectos Java 4H](https://www.udemy.com/certificate/UC-0074ee5d-c3dd-40bc-a54c-830fa84fda3d/)                      | 🟢 Done  |     ?/10    |
 |[Programación funcional en Java con Lambdas y Streams 2H](https://www.udemy.com/certificate/UC-2e065bcf-e31b-4707-87ed-690d430d212e/)             | 🟢 Done  |     ?/10    |
 |[Aprende Unit Test en Java con Junit 5 y Mockito 4H]()                                                                                            | 🟢 Done  |     ?/10    |
-|[IntelliJ IDEA Tricks to Boost Productivity for Java Devs 1,5H]()                                                                                 | 🪨 On it |     ?/10    |
-|[Control de versiones con Subversion 5,5H]()                                                                                                      | 🪨 On it |     ?/10    |
-|[Angular desde cero a experto: Crear una aplicación real]()                                                                                       | 🪨 On it |     ?/10    |
-|[Comienza con MongoDB: Curso de MongoDB desde cero 4 H]()                                                                                         | 🪨 On it |     ?/10    |
+|[IntelliJ IDEA Tricks to Boost Productivity for Java Devs 1,5H]()                                                                                 | 🟢 Done  |     ?/10    |
+|[Control de versiones con Subversion 5,5H]()                                                                                                      | 🟢 Done  |     ?/10    |
+|[Angular desde cero a experto: Crear una aplicación real]()                                                                                       | 🟢 Done  |     ?/10    |
+|[Comienza con MongoDB: Curso de MongoDB desde cero 4 H]()                                                                                         | 🟢 Done  |     ?/10    |
 
 ### 🟦 FreeCodeCamp
 | Name                                                           | Status   | Final Score |
