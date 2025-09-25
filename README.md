@@ -63,7 +63,7 @@ For more details about the projects, there is a README.md in each of them.
 | Name                                                       | Status       | Summary                         |
 |------------------------------------------------------------|--------------|:-------------------------------:|
 |[PDFReader](https://github.com/hinve/PDFReader)             | 🟢 Finished  |   My first ever python project  |
-|[Minecraft Clone](https://github.com/hinve/MinecraftClone)  | 🪨 On it     |  A MinecraftClone using python  |
+|[Minecraft Clone](https://github.com/hinve/MinecraftClone)  | 🟢 Finished  |  A MinecraftClone using python  |
 
 ## 📒 Certificates
 ### 🟪 UDEMY
