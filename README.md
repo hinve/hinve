@@ -1,7 +1,7 @@
 <div id="head" align="center">
-    <h1 align="center">Hi, it's Hinve 🫡</h1>
+    <h1 align="center">Hola, soy Hinve 🫡</h1>
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemVzY2VkdHo0dHlhcXhvNXd1NWxhcml6dHBpa3M2NXZrMTlqaTlwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3bj6t3opdeNddYCyl/giphy.webp" width="200" />
-    <h3 align="center">A software developer from Spain🧑‍🦯</h3>
+    <h3 align="center">Un desarrollador de software de España🧑‍🦯</h3>
 
 ---
 
@@ -17,25 +17,22 @@
 </div>
 
 ---
-## 🧑 About me
+## 🧑 Sobre mi
 
-- 📝 I’m studying at 42 Málaga, and I’m also doing a Higher Vocational Degree in Multiplatform Application Development.
-- 🌱 I’m currently learning Angular, TypeScript, NodeJS and Python
-- 💬 Ask me about Videogames
-- 📫 How to reach me: hectorpinomontiel@gmail.com
-- ⚡ Fun fact: 👺
+- 📝 Terminé mi formación en 42 Málaga, y estoy terminando el Grado Superior de DAM en IES Playamar.
+- 🌱 Estoy especializandome en desarrollo móvil con Flutter.
+- 💬 Juego voleibol en Alhaurin el Grande.
+- 📫 Como contactar conmigo: hectorpinomontiel@gmail.com
 
-## 🛠️ Languages and tools
+## 🛠️ Lenguajes y herramientas
 <div id="Tools" align="left">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40"/>
 </div>
 
