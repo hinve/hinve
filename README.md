@@ -21,6 +21,7 @@
 
 - 📝 Terminé mi formación en 42 Málaga, y estoy terminando el Grado Superior de DAM en IES Playamar.
 - 🌱 Estoy especializandome en desarrollo móvil con Flutter.
+- 😁 Estoy en búsqueda activa de trabajo.
 - 📫 Como contactar conmigo: hectorpinomontiel@gmail.com
 
 ## 🛠️ Lenguajes y herramientas
@@ -51,11 +52,11 @@ Para más detalles, hay un README en cada uno de ellos.
 | [Philosophers](https://github.com/hinve/philosophers) | 🟢 Done  |  3  | 100/100 | ❌    |
 
 ## 👉👨 Personal projects
-| Name                                                       | Status            | Summary                         |
-|------------------------------------------------------------|-------------------|:-------------------------------:|
-|[PDFReader](https://github.com/hinve/PDFReader)             | 🟢 Finished       |   My first ever python project  |
-|[Minecraft Clone](https://github.com/hinve/MinecraftClone)  | 🟢 Finished       |  A MinecraftClone using python  |
-|[TrainAI](https://github.com/hinve/TrainAI)                 | 💎 En desarrollo  |  A MinecraftClone using python  |
+| Name                                                       | Status            | Summary                                                 |
+|------------------------------------------------------------|-------------------|:-------------------------------------------------------:|
+|[PDFReader](https://github.com/hinve/PDFReader)             | 🟢 Finished       |   My first ever python project                         |
+|[Minecraft Clone](https://github.com/hinve/MinecraftClone)  | 🟢 Finished       |  A MinecraftClone using python                         |
+|[TrainAI](https://github.com/hinve/TrainAI)                 | 💎 En desarrollo  |  Herramienta de entrenamiento implementando un chatBOT |
 
 ## 📒 Certificates
 ### 🟪 UDEMY
@@ -67,7 +68,7 @@ Para más detalles, hay un README en cada uno de ellos.
 |[Aprende a usar Streams, lambdas, interfaces funcionales y más. 7,5H](https://www.udemy.com/certificate/UC-83a719eb-26ef-4749-a761-f9fe009a5cd5/) | 🟢 Done  |     ?/10    |
 |[Maven: Construyendo nuestros proyectos Java 4H](https://www.udemy.com/certificate/UC-0074ee5d-c3dd-40bc-a54c-830fa84fda3d/)                      | 🟢 Done  |     ?/10    |
 |[Programación funcional en Java con Lambdas y Streams 2H](https://www.udemy.com/certificate/UC-2e065bcf-e31b-4707-87ed-690d430d212e/)             | 🟢 Done  |     ?/10    |
-|[Aprende Unit Test en Java con Junit 5 y Mockito 4H]()                                                                                           | 🟢 Done  |     ?/10    |
+|[Aprende Unit Test en Java con Junit 5 y Mockito 4H]()                                                                                            | 🟢 Done  |     ?/10    |
 |[IntelliJ IDEA Tricks to Boost Productivity for Java Devs 1,5H]()                                                                                 | 🟢 Done  |     ?/10    |
 |[Control de versiones con Subversion 5,5H]()                                                                                                      | 🟢 Done  |     ?/10    |
 |[Angular desde cero a experto: Crear una aplicación real]()                                                                                       | 🟢 Done  |     ?/10    |
