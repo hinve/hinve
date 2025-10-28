@@ -21,12 +21,14 @@
 
 - 📝 Terminé mi formación en 42 Málaga, y estoy terminando el Grado Superior de DAM en IES Playamar.
 - 🌱 Estoy especializandome en desarrollo móvil con Flutter.
-- 💬 Juego voleibol en Alhaurin el Grande.
 - 📫 Como contactar conmigo: hectorpinomontiel@gmail.com
 
 ## 🛠️ Lenguajes y herramientas
 <div id="Tools" align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>
@@ -36,25 +38,17 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40"/>
 </div>
 
-## 📋 Tables
+## 📋 Tablas
 ### 🏝️ 42 cursus
 [![hpino-mo's 42 stats](https://badge.mediaplus.ma/water/hpino-mo?1337Badge=off)](https://github.com/oakoudad/badge42)
 
-For more details about the projects, there is a README.md in each of them.
+Para más detalles, hay un README en cada uno de ellos.
 | Name                                                  | Status   | Lvl |  Score  | Bonus |
 |-------------------------------------------------------|----------|:---:|:-------:|:-----:|
 | [Libft](https://github.com/hinve/libft)               | 🟢 Done  |  0  | 125/100 | ✅    |
 | [Ft_printf](https://github.com/hinve/ft_printf)       | 🟢 Done  |  1  | 100/100 | ❌    |
-| [Get_next_line](https://github.com/hinve/gnl)         | 🟢 Done  |  1  | 125/100 | ✅    |
-| [Born2beroot](https://github.com/hinve/b2broot)       | 🟢 Done  |  1  | 125/100 | ✅    |
-| Exam 02                                               | 🟢 Done  | 0-2 | 100/100 | ❔    |
-| [Push_Swap](https://github.com/hinve/push_swap)       | 🟢 Done  |  2  | 125/100 | ✅    |
-| [So_long](https://github.com/hinve/so_long)           | 🟢 Done  |  2  | 100/100 | ❌    |
-| [Minitalk](https://github.com/hinve/minitalk)         | 🟢 Done  |  2  | 110/100 | ✅    |
-| Exam 03                                               | 🪨 On it |  1  | ---/100 | ❔    |
 | [Minishell](https://github.com/hinve/minishell)       | 🟢 Done  |  3  | 100/100 | ❌    |
 | [Philosophers](https://github.com/hinve/philosophers) | 🟢 Done  |  3  | 100/100 | ❌    |
-| [C++ Modules](https://github.com/hinve/cpp_modules)   | 🪨 On it |  4  | ---/100 | ❔    |
 
 ## 👉👨 Personal projects
 | Name                                                       | Status       | Summary                         |
@@ -72,26 +66,19 @@ For more details about the projects, there is a README.md in each of them.
 |[Aprende a usar Streams, lambdas, interfaces funcionales y más. 7,5H](https://www.udemy.com/certificate/UC-83a719eb-26ef-4749-a761-f9fe009a5cd5/) | 🟢 Done  |     ?/10    |
 |[Maven: Construyendo nuestros proyectos Java 4H](https://www.udemy.com/certificate/UC-0074ee5d-c3dd-40bc-a54c-830fa84fda3d/)                      | 🟢 Done  |     ?/10    |
 |[Programación funcional en Java con Lambdas y Streams 2H](https://www.udemy.com/certificate/UC-2e065bcf-e31b-4707-87ed-690d430d212e/)             | 🟢 Done  |     ?/10    |
-|[Aprende Unit Test en Java con Junit 5 y Mockito 4H]()                                                                                            | 🟢 Done  |     ?/10    |
+|[Aprende Unit Test en Java con Junit 5 y Mockito 4H]()                                                                                           | 🟢 Done  |     ?/10    |
 |[IntelliJ IDEA Tricks to Boost Productivity for Java Devs 1,5H]()                                                                                 | 🟢 Done  |     ?/10    |
 |[Control de versiones con Subversion 5,5H]()                                                                                                      | 🟢 Done  |     ?/10    |
 |[Angular desde cero a experto: Crear una aplicación real]()                                                                                       | 🟢 Done  |     ?/10    |
 |[Comienza con MongoDB: Curso de MongoDB desde cero 4 H]()                                                                                         | 🟢 Done  |     ?/10    |
-
-### 🟦 FreeCodeCamp
-| Name                                                           | Status   | Final Score |
-|----------------------------------------------------------------|----------|:-----------:|
-|[Responsive Web Design]()                                       | 🪨 On it |    ---/10   |
-|[JavaScript Algorithms and Data Structures]()                   | -------  |    ---/10   |
-|[Front End Development Libraries]()                             | -------  |    ---/10   |
-|[Data Visualization]()                                          | -------  |    ---/10   |
-|[Relational Database]()                                         | -------  |    ---/10   |
-|[Back End Development and APIs]()                               | -------  |    ---/10   |
-|[Quality Assurance]()                                           | -------  |    ---/10   |
 
 ### 🟩 Impulso_06
 | Name                                                           | Status   | Final Score |
 |----------------------------------------------------------------|----------|:-----------:|
 |[Python and Django](https://github.com/hinve/Python_and_Django) | 🟢 Done  |   9,27/10   |
 
+### 🟧 Fundacion Esplai
+| Name                                                           | Status   | Final Score |
+|----------------------------------------------------------------|----------|:-----------:|
+|[Python y IA]() | 🟢 Done  |     ?/10   |
 
