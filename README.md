@@ -51,10 +51,11 @@ Para más detalles, hay un README en cada uno de ellos.
 | [Philosophers](https://github.com/hinve/philosophers) | 🟢 Done  |  3  | 100/100 | ❌    |
 
 ## 👉👨 Personal projects
-| Name                                                       | Status       | Summary                         |
-|------------------------------------------------------------|--------------|:-------------------------------:|
-|[PDFReader](https://github.com/hinve/PDFReader)             | 🟢 Finished  |   My first ever python project  |
-|[Minecraft Clone](https://github.com/hinve/MinecraftClone)  | 🟢 Finished  |  A MinecraftClone using python  |
+| Name                                                       | Status            | Summary                         |
+|------------------------------------------------------------|-------------------|:-------------------------------:|
+|[PDFReader](https://github.com/hinve/PDFReader)             | 🟢 Finished       |   My first ever python project  |
+|[Minecraft Clone](https://github.com/hinve/MinecraftClone)  | 🟢 Finished       |  A MinecraftClone using python  |
+|[TrainAI](https://github.com/hinve/TrainAI)                 | 💎 En desarrollo  |  A MinecraftClone using python  |
 
 ## 📒 Certificates
 ### 🟪 UDEMY
@@ -80,5 +81,5 @@ Para más detalles, hay un README en cada uno de ellos.
 ### 🟧 Fundacion Esplai
 | Name                                                           | Status   | Final Score |
 |----------------------------------------------------------------|----------|:-----------:|
-|[Python y IA]() | 🟢 Done  |     ?/10   |
+|[Python e IA]()                                                 | 🟢 Done  |     ?/10   |
 
