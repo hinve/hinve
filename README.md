@@ -58,6 +58,11 @@ Para más detalles, hay un README en cada uno de ellos.
 |[Minecraft Clone](https://github.com/hinve/MinecraftClone)  | 🟢 Finished       |  A MinecraftClone using python                         |
 |[TrainAI](https://github.com/hinve/TrainAI)                 | 💎 En desarrollo  |  Herramienta de entrenamiento implementando un chatBOT |
 
+## 🏛️ Ejercicios de clase
+| Name                                                        | Status            | Summary                                                 |
+|-------------------------------------------------------------|-------------------|:-------------------------------------------------------:|
+|[Ejercicios de DART](https://github.com/hinve/EjerciciosDart)| 🟢 Finished       |   Ejercicios de clase de DART                           |
+
 ## 📒 Certificates
 ### 🟪 UDEMY
 | Name                                                                                                                                             | Status   | Final Score |
