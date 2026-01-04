@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/badge/hinve-301934?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
     </a>
     <p></p>
-    <a href="https://steamcommunity.com/id/hinve">
+    <a href="https://www.salesforce.com/trailblazer/mw5y49rrtdch9cv1rt">
         <img src="https://img.shields.io/badge/Salesforce-H%C3%A9ctor-blue?style=for-the-badge&logo=salesforce&link=https%3A%2F%2Fwww.salesforce.com%2Ftrailblazer%2Fmw5y49rrtdch9cv1rt" alt="Salesforce" />
     </a>
 </div>
