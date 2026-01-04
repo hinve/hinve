@@ -14,6 +14,10 @@
     <a href="https://steamcommunity.com/id/hinve">
         <img src="https://img.shields.io/badge/hinve-301934?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
     </a>
+    <p></p>
+    <a href="https://steamcommunity.com/id/hinve">
+        <img src="https://img.shields.io/badge/Salesforce-H%C3%A9ctor-blue?style=for-the-badge&logo=salesforce" alt="Salesforce" />
+    </a>
 </div>
 
 ---
