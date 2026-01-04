@@ -56,7 +56,7 @@ Para más detalles, hay un README en cada uno de ellos.
 |------------------------------------------------------------|-------------------|:-------------------------------------------------------:|
 |[PDFReader](https://github.com/hinve/PDFReader)             | 🟢 Finished       |   My first ever python project                         |
 |[Minecraft Clone](https://github.com/hinve/MinecraftClone)  | 🟢 Finished       |  A MinecraftClone using python                         |
-|[TrainAI](https://github.com/hinve/TrainAI)                 | 💎 En desarrollo  |  Herramienta de entrenamiento implementando un chatBOT |
+|[Trainay](https://github.com/hinve/Trainay)                 | 💎 En desarrollo  |  Herramienta de entrenamiento implementando un chatBOT |
 
 ## 🏛️ Ejercicios de clase
 | Name                                                        | Status            | Summary                                                 |
