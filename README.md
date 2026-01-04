@@ -16,7 +16,7 @@
     </a>
     <p></p>
     <a href="https://steamcommunity.com/id/hinve">
-        <img src="https://img.shields.io/badge/Salesforce-H%C3%A9ctor-blue?style=for-the-badge&logo=salesforce" alt="Salesforce" />
+        <img src="https://img.shields.io/badge/Salesforce-H%C3%A9ctor-blue?style=for-the-badge&logo=salesforce&link=https%3A%2F%2Fwww.salesforce.com%2Ftrailblazer%2Fmw5y49rrtdch9cv1rt" alt="Salesforce" />
     </a>
 </div>
 
