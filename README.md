@@ -65,7 +65,8 @@ Para más detalles, hay un README en cada uno de ellos.
 ## 🏛️ Ejercicios de clase
 | Name                                                        | Status            | Summary                                                 |
 |-------------------------------------------------------------|-------------------|:-------------------------------------------------------:|
-|[Ejercicios de DART](https://github.com/hinve/EjerciciosDart)| 🟢 Finished       |   Ejercicios de clase de DART                           |
+|[Ejercicios de DART](https://github.com/hinve/EjerciciosDart)| 🟢 Finished       |   Ejercicios de clase de DART                           | 
+|[Ejercicios de FLUTTER](https://github.com/hinve/DAM/tree/main/ProgramacionMovil/RelacionesSegundoTrimestre)| 🟢 Finished       |   Ejercicios de clase de DART                           | 
 
 ## 📒 Certificates
 ### 🟪 UDEMY
